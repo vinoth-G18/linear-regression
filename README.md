@@ -1,4 +1,4 @@
-I upload house price prediction project using linear regression
+I uploaded a house price prediction project using linear regression
 
 and also
 
